@@ -1,4 +1,9 @@
-# ⚡ ltx0101 – Optimizing Performance, One Script at a Time
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=ltx0101%20%E2%80%93%20Optimizing%20Performance%2C%20One%20Script%20at%20a%20Time&font=Fira%20Code&center=true&width=940&height=60&color=5391FE&vCenter=true&pause=1000&size=27" />
+  </a>
+</p>
+
 
 ### 💻 Tech Stack: PowerShell, Batch, Shell Scripting
 

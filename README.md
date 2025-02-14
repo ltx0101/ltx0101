@@ -6,11 +6,12 @@
 
 🔹 Current Projects: 
 
-- [GOS](https://github.com/ltx0101/GOS) – Gaming Optimization Script $~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/user-attachments/assets/7c9a08cb-5b20-46ae-81af-c404b2ea79c8" width="35" height="17"> 
+- [GOS](https://github.com/ltx0101/GOS) – Gaming Optimization Script &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/7c9a08cb-5b20-46ae-81af-c404b2ea79c8" width="35" height="17"> 
 
-- [SlimBrave](https://github.com/ltx0101/SlimBrave) – Brave Browser Debloater $~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/user-attachments/assets/3e90a996-a74a-4ca1-bea6-0869275bab58" width="20" height="30"> 
+- [SlimBrave](https://github.com/ltx0101/SlimBrave) – Brave Browser Debloater &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/3e90a996-a74a-4ca1-bea6-0869275bab58" width="20" height="30"> 
 
-- [Stealth Chrome](https://github.com/ltx0101/StealthChrome) – Google Chrome Debloater $~~~~~~~$ <img src="https://github.com/user-attachments/assets/35794d47-f1ab-43d1-a27d-874a05b01906" width="22" height="22">
+- [Stealth Chrome](https://github.com/ltx0101/StealthChrome) – Google Chrome Debloater &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/35794d47-f1ab-43d1-a27d-874a05b01906" width="22" height="22">
+
 
 ---
 

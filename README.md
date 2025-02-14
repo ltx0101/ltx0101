@@ -1,10 +1,10 @@
 # ⚡ ltx0101 – Optimizing Performance, One Script at a Time
 
-🔹 Tech Stack: PowerShell, Batch 
+### 💻 Tech Stack: PowerShell, Batch, Shell Scripting
 
-🔹 Interests: Customizing Windows, optimizing programs, and building lightweight, efficient solutions 
+### ⚙️ Interests: Customizing Windows, optimizing programs, and building lightweight, efficient solutions 
 
-🔹 Current Projects: 
+### 📝 Current Projects: 
 
 - [GOS](https://github.com/ltx0101/GOS) – Gaming Optimization Script &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/7c9a08cb-5b20-46ae-81af-c404b2ea79c8" width="35" height="17"> 
 

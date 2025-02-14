@@ -5,11 +5,23 @@
 </p>
 
 
-### 💻 Tech Stack: PowerShell, Batch, Shell Scripting
+## 💻 **Tech Stack**  
+✨ **PowerShell**, **Batch**, & **Shell Scripting** – Crafting powerful automation scripts, streamlining workflows, and optimizing environments with precision.
 
-### ⚙️ Interests: Customizing Windows, optimizing programs, and building lightweight, efficient solutions 
 
-### 📝 Current Projects: 
+
+## ⚙️ **Interests**  
+🚀 **Windows Customization** – From UI tweaks to deep system optimization, I love pushing Windows to its limits.  
+⚡ **Performance Optimization** – Focusing on creating fast, minimalistic solutions that run like a dream.  
+💡 **Efficient Coding** – Turning complex problems into simple, lightweight code that works smarter, not harder.
+
+
+
+## 📝 **Current Projects**  
+🔧 **Custom Windows Automation Suite** – Building a toolset for fully customizable, automated workflows on Windows.  
+🛠 **Lightweight Performance Boosters** – Developing ultra-efficient scripts and utilities to enhance system responsiveness.  
+💻 **Open Source Projects** – Contributing to community-driven projects focused on performance and customization.
+
 
 - [GOS](https://github.com/ltx0101/GOS) – Gaming Optimization Script &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/7c9a08cb-5b20-46ae-81af-c404b2ea79c8" width="35" height="17"> 
 

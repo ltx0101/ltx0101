@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ltx0101%20%E2%80%93%20Optimizing%20Performance%2C%20One%20Script%20at%20a%20Time&font=Fira%20Code&center=true&width=940&height=60&color=5391FE&vCenter=true&pause=1000&size=27" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=ltx0101%20%E2%80%93%20Optimizing%20Performance%2C%20One%20Script%20at%20a%20Time&font=Fira%20Code&center=true&width=1040&height=70&color=5391FE&vCenter=true&pause=1000&size=32" />
   </a>
 </p>
 
@@ -16,6 +16,7 @@
 - [SlimBrave](https://github.com/ltx0101/SlimBrave) – Brave Browser Debloater &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/3e90a996-a74a-4ca1-bea6-0869275bab58" width="20" height="30"> 
 
 - [Stealth Chrome](https://github.com/ltx0101/StealthChrome) – Google Chrome Debloater &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/35794d47-f1ab-43d1-a27d-874a05b01906" width="22" height="22">
+
 
 
 ---

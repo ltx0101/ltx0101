@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3423f70-bad2-4623-89f4-81a0130e5a3c" alt="Your Banner Image" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a3423f70-bad2-4623-89f4-81a0130e5a3c" width="100%" />
 </p>
 
 &nbsp;
@@ -51,4 +51,8 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-808080?style=for-the-badge&logo=windows-terminal&logoColor=black)
 ![Profile Views](https://komarev.com/ghpvc/?username=ltx0101&color=5391FE&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+<img src="https://github.com/user-attachments/assets/0f69c4b1-2976-4e3c-9fc6-13f9455b3315" width="10%" />
 

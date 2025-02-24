@@ -52,4 +52,7 @@
 ![Batch](https://img.shields.io/badge/Batch-808080?style=for-the-badge&logo=windows-terminal&logoColor=black)
 ![Profile Views](https://komarev.com/ghpvc/?username=ltx0101&color=5391FE&style=for-the-badge&label=PROFILE+VIEWS)
 
+<a href="https://threejs.org/examples/#webgl_interactive_buffergeometry" target="_blank">
+  <img src="https://raw.githubusercontent.com/ltx0101/YOUR_REPO/main/webgl_demo.gif" width="400px"/>
+</a>
 

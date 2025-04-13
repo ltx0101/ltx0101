@@ -49,10 +49,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltx0101&layout=compact&theme=transparent&hide_border=true)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-808080?style=for-the-badge&logo=windows-terminal&logoColor=black)
+![Batch](https://img.shields.io/badge/Batch-5391FE?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=ltx0101&color=5391FE&style=for-the-badge&label=PROFILE+VIEWS)
+[![PayPal Donate](https://img.shields.io/badge/PayPal_Donate-s?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/AggelosMeta)
 
 ---
 
 <img src="https://github.com/user-attachments/assets/0f69c4b1-2976-4e3c-9fc6-13f9455b3315" width="10%" />
+
 

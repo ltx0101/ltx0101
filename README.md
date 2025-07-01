@@ -38,8 +38,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltx0101&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ltx0101&theme=github-dark&hide_border=true)
 
 ---

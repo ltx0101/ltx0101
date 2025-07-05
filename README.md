@@ -34,10 +34,10 @@ Crafting powerful automation scripts to streamline workflows and optimize perfor
   <a href="https://github.com/ltx0101/StealthChrome">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltx0101&repo=StealthChrome&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/ltx0101/SlimBrave">
+  <a href="https://github.com/ltx0101/GOS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltx0101&repo=GOS&theme=transparent&hide_border=true" />
   </a>
-  <a href="https://github.com/ltx0101/SlimBrave">
+  <a href="https://github.com/ltx0101/SlimFox">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ltx0101&repo=SlimFox&theme=transparent&hide_border=true" />
   </a>
 </p>

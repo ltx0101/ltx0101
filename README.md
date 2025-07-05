@@ -10,30 +10,19 @@
 
 &nbsp;
 
-## 💻 **Tech Stack**  
-✨ **PowerShell**, **Batch**, & **Shell Scripting** – Crafting powerful automation scripts, streamlining workflows, and optimizing environments with precision.
+## **Tech Stack**  
+**PowerShell**, **Batch**, & **Shell Scripting** – Crafting powerful automation scripts, streamlining workflows, and optimizing environments.
 
 &nbsp;
 
-## ⚙️ **Interests**  
-🚀 **Windows Customization** – From UI tweaks to deep system optimization, I love pushing Windows to its limits.  
-⚡ **Performance Optimization** – Focusing on creating fast, minimalistic solutions that run like a dream.  
-💡 **Efficient Coding** – Turning complex problems into simple, lightweight code that works smarter, not harder.
+## **Interests**  
+**Windows Customization** – From UI tweaks to deep system optimization.
+
+**Performance Optimization** – Focusing on creating fast, minimalistic solutions.
+
+**Efficient Coding** – Turning complex problems into simple, lightweight code.
 
 &nbsp;
-
-## 📝 **Current Projects**  
-🔧 **Custom Windows Automation Suite** – Building a toolset for fully customizable, automated workflows on Windows.  
-🛠 **Lightweight Performance Boosters** – Developing ultra-efficient scripts and utilities to enhance system responsiveness.  
-💻 **Open Source Projects** – Contributing to community-driven projects focused on performance and customization.
-
-
-- [GOS](https://github.com/ltx0101/GOS) – Gaming Optimization Script &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/7c9a08cb-5b20-46ae-81af-c404b2ea79c8" width="35" height="17"> 
-
-- [SlimBrave](https://github.com/ltx0101/SlimBrave) – Brave Browser Debloater &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/3e90a996-a74a-4ca1-bea6-0869275bab58" width="20" height="30"> 
-
-- [Stealth Chrome](https://github.com/ltx0101/StealthChrome) – Google Chrome Debloater &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/35794d47-f1ab-43d1-a27d-874a05b01906" width="22" height="22">
-
 
 
 ---
